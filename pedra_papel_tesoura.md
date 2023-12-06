@@ -25,4 +25,4 @@ No nosso jogo, faremos jogador vs. computador.
    - Use uma estrutura condicional para as variáveis `opcao_computador` e `opcao_jogador` para descrobrir quem venceu (linha 22):
      - Pense em todas as combinações em que o jogador vence o computador e coloque-as como condição de um único `if`. Use operadores lógicos. Dentro do bloco do `if`, atribua 'Jogador venceu!' à variável mensagem.
      - No else, atribua 'Computador venceu!' à variável mensagem.
-   - Crie uma nova estrutura condicional que verifique se `opcao_computador` e `opcao_jogador`. Se for o caso, atribua 'Empate!' à variável mensagem (linha 24).
+   - Crie uma nova estrutura condicional que verifique se `opcao_computador` e `opcao_jogador` são iguais. Se for o caso, atribua 'Empate!' à variável mensagem (linha 24).
